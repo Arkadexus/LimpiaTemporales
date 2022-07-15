@@ -1,5 +1,4 @@
 # LimpiaTemporales
-
 LimpiaTemporales es una aplicación de Node.js que limpia los temporales de cada usuario y los de Windows siempre y cuandos se tengan permisos.
 
 ## Uso
