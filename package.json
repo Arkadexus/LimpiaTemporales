@@ -1,0 +1,15 @@
+{
+  "name": "limpiatemporales",
+  "version": "1.0.0",
+  "description": "Sirve para limpiar los temporales de todos los usuarios y de sistema. Debe ejecutarse con privilegios de Administrador.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduard Serra Tejedor",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.1"
+  }
+}
