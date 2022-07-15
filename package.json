@@ -1,0 +1,24 @@
+{
+  "name": "limpiatemporales",
+  "version": "1.0.0",
+  "description": "LimpiaTemporales es una aplicación de Node.js que limpia los temporales de cada usuario y los de Windows siempre y cuandos se tengan permisos.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arkadexus/LimpiaTemporales.git"
+  },
+  "author": "Arkadexus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arkadexus/LimpiaTemporales/issues"
+  },
+  "homepage": "https://github.com/Arkadexus/LimpiaTemporales#readme"
+}
